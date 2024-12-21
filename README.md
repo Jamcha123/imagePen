@@ -1,2 +1,3 @@
-# phoup
-phoup is a website to upload photos and cool website designs like pexels and codepen
+# imagePen
+imagePen is a website to upload photos and cool website designs like pexels, codepen and sketchfab
+
